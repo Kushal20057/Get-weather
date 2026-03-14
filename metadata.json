@@ -1,0 +1,5 @@
+{
+  "name": "Atmosphere Weather",
+  "description": "A real-time weather application featuring dynamic backgrounds, location search, and a sleek, responsive interface.",
+  "requestFramePermissions": ["geolocation"]
+}
